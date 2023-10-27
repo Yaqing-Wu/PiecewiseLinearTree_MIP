@@ -40,7 +40,7 @@ This repository contains code for the numerical experiments in subsection 4.1 (N
 
 ## Citation
 If ou use this work, please cite the following paper:
-::
+```
 @article{WU2023,
 title = {Piecewise Linear Trees as Surrogate Models for System Design and Planning under High-frequency Temporal Variability},
 journal = {European Journal of Operational Research},
@@ -50,6 +50,7 @@ doi = {https://doi.org/10.1016/j.ejor.2023.10.028},
 url = {https://www.sciencedirect.com/science/article/pii/S0377221723008032},
 author = {Yaqing Wu and Christos T. Maravelias}
 }
+```
 
 ## References
 - The power plant dataset comes from:
